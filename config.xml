@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ingeotec.IngeotecUNLaR" version="2.0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.ingeotec.IngeotecUNLaR" version="2.0.10" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>GUÍA UNLaR</name>
     <description>
        GUÍA UNLaR es un aplicación para gestionar tu vida universitaria, con ella podes acceder a toda la información sobre el ingreso a la universidad, guía de trámites, beneficios y reglamentos entre otros contenidos. Te permite descargar los formularios que puedas necesitar y acceder a las ultimas noticias universitarias a través del acceso a nuestro sitio web y sus redes sociales. La aplicación puede ser utilizada por cualquier ingresante, estudiante o graduado de la Universidad Nacional de La Rioja.
